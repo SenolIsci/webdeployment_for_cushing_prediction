@@ -24,21 +24,18 @@ then at the console:
 
 !git init
 
-!git config --global user.name "SENOL ISCI"
-!git config --global user.email "senol.isci@gmail.com"
 !git add .
 
 !git commit -m "First commit"
 !git log
 
-#In the Command prompt, add the URL for the remote repository where your local repository will be pushed. opens new repository
-!git remote add origin https://git.heroku.com/cushingsyndrome-prediction.git
-!git remote -v
+!heroku login
+!heroku create cushingsyndrome-prediction
 
 #Push the changes in your local repository to Heroku.
-
-!heroku git:remote -a cushingsyndrome-prediction
+!heroku git:remote -a cushings-syndrome-prediction
 !git push heroku master
+
 
 
 #when a file changed
