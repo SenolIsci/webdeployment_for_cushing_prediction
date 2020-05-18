@@ -1,4 +1,4 @@
-# Machine Learning Deployment Tutorials
+ # Machine Learning Deployment Tutorials
 Launch a website running flask and machine learning model to predict Cushing Syndrome.
 
 # 1. Predict Cushing's Syndrome
@@ -8,6 +8,9 @@ Launch a website running flask and machine learning model to predict Cushing Syn
 2. pandas
 3. numpy
 4. flask
+5. gunicorn
+6. heroku
+
 
 ## Installation
 
@@ -19,15 +22,17 @@ Launch a website running flask and machine learning model to predict Cushing Syn
 
 ![Logo](i1.png)
 
-# 2. Predict House Prices
+# 2. Predict Cushing's Syndrome
 
-Download the dataset from [here](https://www.kaggle.com/shivachandel/kc-house-data).
+
 
 ## Environment and tools
 1. scikit-learn
 2. pandas
 3. numpy
 4. flask
+5. heroku
+6. gunicorn
 
 
 
