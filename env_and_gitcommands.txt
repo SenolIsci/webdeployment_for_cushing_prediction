@@ -35,10 +35,10 @@ then at the console:
 !git remote add origin https://git.heroku.com/cushing-prediction-ml.git
 !git remote -v
 
-#Push the changes in your local repository to GitHub.
+#Push the changes in your local repository to Heroku.
 
-!git push -u origin master
-
+!heroku git:remote -a cushing-prediction-ml
+!git push heroku master
 
 
 #when a file changed
