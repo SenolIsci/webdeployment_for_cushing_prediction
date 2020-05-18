@@ -9,31 +9,20 @@ Launch a website running flask and machine learning model to predict Cushing Syn
 3. numpy
 4. flask
 5. gunicorn
-6. heroku
+
+Web deployment on:
+1. heroku. (www.heroku.com)
 
 
 ## Installation
 
-`pip install scikit-learn pandas numpy flask`
-
-`python model.py`
+`pip install scikit-learn pandas numpy flask gunicorn`
 
 `python app.py`
 
+Install the Heroku CLI: tool.https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+
 ![Logo](i1.png)
-
-# 2. Predict Cushing's Syndrome
-
-
-
-## Environment and tools
-1. scikit-learn
-2. pandas
-3. numpy
-4. flask
-5. heroku
-6. gunicorn
-
 
 
 ## Citing
