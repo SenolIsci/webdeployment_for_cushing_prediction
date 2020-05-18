@@ -36,11 +36,14 @@ then at the console:
 !heroku git:remote -a cushings-syndrome-prediction
 !git push heroku master
 
-
+#ig github use below:
+git remote add origin https://github.com/SenolIsci/webdeployment_for_cushing_prediction.git
+git remote -v
+git push -u origin master
 
 #when a file changed
 
-!git add app_cushing.py
+!git add app.py
 !git commit -m "minor change"
 !git push -u origin master
 
