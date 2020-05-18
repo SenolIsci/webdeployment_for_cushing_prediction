@@ -1,0 +1,67 @@
+
+1-)first install git for windows
+2-) add to path  on windows 
+
+;C:\Program Files\Git\bin\git.exe;C:\Program Files\Git\cmd
+
+on spyder:
+
+select project folder.
+
+then at the console:
+
+#create and add readme file to local git rep:
+
+#f=open('README.md','w+')
+#f.write("#tokenization of words from pdf files\n")
+#f.write("merge multiple pdf files\n")
+#f.write("also convert pages of pdf file into png files\n")
+#f.write("tokenize words from merged pdf using nltk. Get token frequency and plot.\n")
+#f.write("\n")
+#f.close()
+
+
+
+!git init
+
+!git config --global user.name "SENOL ISCI"
+!git config --global user.email "senol.isci@gmail.com"
+!git add .
+
+!git commit -m "First commit"
+!git log
+
+#In the Command prompt, add the URL for the remote repository where your local repository will be pushed. opens new repository
+!git remote add origin https://github.com/SenolIsci/pdf_file_manupilation_and_word_extraction_and_tokenization.git
+!git remote -v
+
+#Push the changes in your local repository to GitHub.
+
+!git push -u origin master
+
+
+
+#when a file changed
+
+!git add app_cushing.py
+!git commit -m "minor change"
+!git push -u origin master
+
+
+#when many files changed. omit add commande and use -a param:
+!git commit -a -m "minor changes"
+!git push -u origin master
+
+
+#Remove Files From Git Commit
+! git reset --soft HEAD~1
+! git reset HEAD <file>
+
+
+
+Try
+
+!rm -f ./.git/index.lock
+In your repository directory. The error message is rather explicit as to what causes it typically, so if you have no other git processes running (which is the normal case), go ahead and delete that file
+! git rm --cached <file>
+
