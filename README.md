@@ -45,7 +45,7 @@ Launch a website running flask and machine learning model to predict Cushing Syn
   Year = {2020},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/abhinavsagar/Website-for-machine-mearning-of-cushings-syndrome}}
+  Howpublished = {\url{https:/https://github.com/SenolIsci/webdeployment_for_cushing_prediction}}
 }
 ```
 
