@@ -32,12 +32,12 @@ then at the console:
 !git log
 
 #In the Command prompt, add the URL for the remote repository where your local repository will be pushed. opens new repository
-!git remote add origin https://git.heroku.com/cushing-prediction-ml.git
+!git remote add origin https://git.heroku.com/cushingsyndrome-prediction.git
 !git remote -v
 
 #Push the changes in your local repository to Heroku.
 
-!heroku git:remote -a cushing-prediction-ml
+!heroku git:remote -a cushingsyndrome-prediction
 !git push heroku master
 
 
