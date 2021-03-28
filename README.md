@@ -26,7 +26,7 @@ Install the Heroku CLI: tool.https://devcenter.heroku.com/articles/heroku-cli#do
 
 
 ## Citing (bibtex)
-please click link bwelow for the article:
+please click link below for the article:
 https://ieeexplore.ieee.org/document/9340541
 ```
 @ARTICLE{9340541,
