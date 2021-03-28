@@ -45,8 +45,7 @@ https://ieeexplore.ieee.org/document/9340541
 
 If you want to keep in touch:
 
-1. [Personal E-mail](senol.isci@gmail.com
-2. [Linkedin](https://uk.linkedin.com/in/senolisci)
+[Linkedin](https://uk.linkedin.com/in/senolisci)
 
 ## License
 
