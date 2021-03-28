@@ -25,16 +25,18 @@ Install the Heroku CLI: tool.https://devcenter.heroku.com/articles/heroku-cli#do
 ![Logo](i1.png)
 
 
-## Citing
-
+## Citing (bibtex)
+plese visit site for the article:https://ieeexplore.ieee.org/document/9340541
 ```
-@misc{Isci:2020,
-  Author = {Isci S, Yaman Kalender DS, Bayraktar F, Yaman A.},
-  Title = {Machine Learning Models for Classification of Cushing's Syndrome Using Retrospective Data},
-  Year = {2021},
-  Publisher = {IEEE},
-  Journal = {IEEE J Biomed Health Inform.},
-  Howpublished = {\url{https://ieeexplore.ieee.org/document/9340541}}
+@ARTICLE{9340541,
+  author={S. {Isci} and D. S. {Yaman Kalender} and F. {Bayraktar} and A. {Yaman}},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Machine Learning Models for Classification of Cushing's Syndrome Using Retrospective Data}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JBHI.2021.3054592}}
 }
 ```
 
