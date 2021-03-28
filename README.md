@@ -29,12 +29,12 @@ Install the Heroku CLI: tool.https://devcenter.heroku.com/articles/heroku-cli#do
 
 ```
 @misc{Isci:2020,
-  Author = {Senol Isci},
-  Title = {Website-to-predict-Cushings-Syndrome-using-machine-learning},
-  Year = {2020},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https:/https://github.com/SenolIsci/webdeployment_for_cushing_prediction}}
+  Author = {Isci S, Yaman Kalender DS, Bayraktar F, Yaman A.},
+  Title = {Machine Learning Models for Classification of Cushing's Syndrome Using Retrospective Data},
+  Year = {2021},
+  Publisher = {IEEE},
+  Journal = {IEEE J Biomed Health Inform.},
+  Howpublished = {\url{https://ieeexplore.ieee.org/document/9340541}}
 }
 ```
 
