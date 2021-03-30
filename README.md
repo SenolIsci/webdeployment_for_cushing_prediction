@@ -22,7 +22,7 @@ Web deployment on:
 
 Install the Heroku CLI: tool.https://devcenter.heroku.com/articles/heroku-cli#download-and-install
 
-##App link:
+## App Link
 https://cushings-syndrome-prediction.herokuapp.com/
 
 ![Logo](i1.png)
